@@ -2,8 +2,13 @@
 name = "mod-dir-regr"
 version = "0.1.0"
 dependencies = [
+ "group_attr 0.1.0",
  "libc 0.2.18 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
+
+[[package]]
+name = "group_attr"
+version = "0.1.0"
 
 [[package]]
 name = "libc"

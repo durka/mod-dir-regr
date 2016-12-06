@@ -1,9 +1,6 @@
 [package]
-name = "mod-dir-regr"
+name = "group_attr"
 version = "0.1.0"
 authors = ["Alex Burka <aburka@seas.upenn.edu>"]
 
 [dependencies]
-libc = "*"
-group_attr = { path = "group_attr" }
-
